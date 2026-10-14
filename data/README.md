@@ -1,0 +1,1 @@
+Datasets are loaded by `src/datasets.py`. California Housing and Diabetes are provided by scikit-learn; the remaining public CSV/ZIP datasets are downloaded when selected. If network restrictions block a source, download the dataset manually and update the relevant loader URL/path.
